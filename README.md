@@ -1,7 +1,6 @@
 # MKS_DLC32_FluidNC
 
-Donload and install CH340 Driver.
-Download and install MKS Laser Tool.
+CH340 Treiber und MKS Laser Tool installieren (original von MKS).
 
 Damit die Settings nach einem Reset erhalten bleiben, im Dashboard Tab den roten Save Button drücken.
 
