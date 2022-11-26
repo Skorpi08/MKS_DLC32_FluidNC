@@ -37,7 +37,7 @@ This Tutorial is also based on Flashing FLUIDNC to MKS DLC32 board, however the 
 5. Future updates can be done within the Web GUI
 
 
-# Note: As of the Included firmware, changes made to the config file are not saved unless you return to the *"Dashboard"* TAB and also apply *"save"* from the movement section.
+## Note: As of the Included firmware, changes made to the config file are not saved unless you return to the *"Dashboard"* TAB and also apply *"save"* from the movement section.
 
 # TFT Display for MKS DLC32 is also not working in the included Firmware.  Please see FluidNC's github for newer firmware that may/may not include Display files.
 
